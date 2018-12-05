@@ -1,2 +1,2 @@
 # Tableau-Server-API
-Python scripts to interact with Tableau Server REST API
+Python scripts leveraging Tableau Server REST API in order to programatically make changes to server cluster
